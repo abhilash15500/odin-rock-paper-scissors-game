@@ -5,5 +5,5 @@ live link - https://abhilash15500.github.io/odin-rock-paper-scissors-game/
 
 
 
-Learnt about functions in this project!
+Learnt about functions,dom,events listeners in  in this project!
 
